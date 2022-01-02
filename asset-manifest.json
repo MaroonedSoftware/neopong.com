@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MaroonedSoftware/neopong.com/static/css/main.073c9b0a.css",
-    "main.js": "/MaroonedSoftware/neopong.com/static/js/main.76636d3e.js",
-    "static/js/787.06844d57.chunk.js": "/MaroonedSoftware/neopong.com/static/js/787.06844d57.chunk.js",
-    "index.html": "/MaroonedSoftware/neopong.com/index.html",
-    "main.073c9b0a.css.map": "/MaroonedSoftware/neopong.com/static/css/main.073c9b0a.css.map",
-    "main.76636d3e.js.map": "/MaroonedSoftware/neopong.com/static/js/main.76636d3e.js.map",
-    "787.06844d57.chunk.js.map": "/MaroonedSoftware/neopong.com/static/js/787.06844d57.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.278d10dc.js",
+    "static/js/787.06844d57.chunk.js": "/static/js/787.06844d57.chunk.js",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.278d10dc.js.map": "/static/js/main.278d10dc.js.map",
+    "787.06844d57.chunk.js.map": "/static/js/787.06844d57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.76636d3e.js"
+    "static/js/main.278d10dc.js"
   ]
 }
