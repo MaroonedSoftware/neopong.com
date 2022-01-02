@@ -1,4 +1,4 @@
-import { Card, CardMedia, CardContent, Typography, CardActions, Button, IconButton } from "@mui/material";
+import { Card, CardMedia, CardContent, Typography, CardActions, IconButton } from "@mui/material";
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 
 interface Props {
